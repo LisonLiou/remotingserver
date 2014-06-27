@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\bin\Debug\RemotingObject.dll
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\bin\Debug\RemotingObject.pdb
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingClient\obj\Debug\RemotingClient.pdb
+F:\RemotingServer\RemotingClient\obj\Debug\RemotingClient.exe
+F:\RemotingServer\RemotingClient\obj\Debug\RemotingClient.pdb

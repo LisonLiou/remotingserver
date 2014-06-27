@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingObject\bin\Debug\RemotingObject.dll
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingObject\bin\Debug\RemotingObject.pdb
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingObject\obj\Debug\RemotingObject.dll
+C:\Documents and Settings\Administrator\桌面\Test\RemotingServer\RemotingObject\obj\Debug\RemotingObject.pdb
